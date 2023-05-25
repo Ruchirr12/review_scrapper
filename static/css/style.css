@@ -1,5 +1,5 @@
 body {
-  background-color: #91ced4;
+  background-img:url({url for 'static'."filename=https://yourserveradmin.com/wp-content/uploads/2017/11/Web-Scrapers.jpg"})
 }
 body * {
   box-sizing: border-box;
@@ -14,7 +14,10 @@ body * {
   text-transform: uppercase;
 }
 
-img {"https://yourserveradmin.com/wp-content/uploads/2017/11/Web-Scrapers.jpg"}
+img {
+border-radius: 50%; 
+  height: 60px;
+  width: 60px;}
 
 .table-users {
   border: 1px solid #327a81;
