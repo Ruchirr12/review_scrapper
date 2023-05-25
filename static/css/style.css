@@ -14,10 +14,7 @@ body * {
   text-transform: uppercase;
 }
 
-img {
-border-radius: 50%; 
-  height: 60px;
-  width: 60px;}
+img {<img height="380" width="1400" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif" style="max-width: 100%;" data-target="animated-image.original image">}
 
 .table-users {
   border: 1px solid #327a81;
